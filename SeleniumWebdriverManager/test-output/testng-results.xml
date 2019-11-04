@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19792" started-at="2019-11-04T19:10:20 IST" finished-at="2019-11-04T19:10:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19792" started-at="2019-11-04T19:10:20 IST" finished-at="2019-11-04T19:10:40 IST">
+      <class name="Test.GmailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.GmailTest@29daf3]" name="setUp" is-config="true" duration-ms="5046" started-at="2019-11-04T19:10:20 IST" finished-at="2019-11-04T19:10:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGmail()[pri:0, instance:Test.GmailTest@29daf3]" name="testGmail" duration-ms="3918" started-at="2019-11-04T19:10:25 IST" finished-at="2019-11-04T19:10:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.GmailTest@29daf3]" name="tearDown" is-config="true" duration-ms="10757" started-at="2019-11-04T19:10:29 IST" finished-at="2019-11-04T19:10:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.GmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
